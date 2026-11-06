@@ -103,7 +103,7 @@ Through this project, I gained practical experience in:
 
 **Domain:** Web Development
 
-**Task:** Task 1 – Business Problem-Solving Website
+**Task:** Task 3 – Business Problem-Solving Website
 
 **Project:** QuickFix – Home Services Website
 
